@@ -1,5 +1,3 @@
-### Fabio Ferreira
-
 I am a PhD student at the [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/biedenkapp/index.html) under the supervision of Frank Hutter.<BR><BR>
 Current project: [Learning Environments for Reinforcement Learning](https://github.com/automl/learning_environments)
 
