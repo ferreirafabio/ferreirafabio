@@ -1,4 +1,4 @@
-I am a PhD student at the [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/biedenkapp/index.html) under the supervision of Frank Hutter.<BR><BR>
+I am a PhD student at the [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/ferreira/index.html) under the supervision of Frank Hutter.<BR><BR>
 Current project: [Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models)
   
 Previous project: [Learning Environments for Reinforcement Learning](https://github.com/automl/learning_environments)
