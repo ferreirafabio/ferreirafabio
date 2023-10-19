@@ -1,5 +1,5 @@
 I am a PhD student at the [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/ferreira/index.html) under the supervision of Frank Hutter.<BR><BR>
-Current project: some work on Meta-Learning and Self-Supervised Learning :), tba
+Current project: [Hard View Selection for Contrastive Learning](https://arxiv.org/abs/2310.03940)
   
 Past projects: [Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models), [Learning Environments for Reinforcement Learning](https://github.com/automl/learning_environments)
 
