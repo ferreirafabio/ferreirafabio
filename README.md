@@ -2,7 +2,7 @@ I am a PhD student at the [Machine Learning Group in Freiburg](http://ml.informa
 Current project: [Beyond Random Augmentations: Pretraining with Hard Views](https://arxiv.org/abs/2310.03940) (ECCV 2024; currently under review)
   
 Past projects: 
-- [Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How](https://openreview.net/forum?id=tqh1zdXIra) (ICLR 2024)
+- [Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How](https://openreview.net/forum?id=tqh1zdXIra) (ICLR 2024, oral)
 - [Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models) (ICML 2022)
 - [Learning Environments for Reinforcement Learning](https://github.com/automl/learning_environments) (ICLR 2022)
 
