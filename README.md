@@ -1,5 +1,5 @@
 I am a PhD student at the [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/ferreira/index.html) under the supervision of Frank Hutter.<BR><BR>
-Current project: [Beyond Random Augmentations: Pretraining with Hard Views](https://arxiv.org/abs/2310.03940) (ECCV 2024; currently under review)
+Current project: [Beyond Random Augmentations: Pretraining with Hard Views](https://arxiv.org/abs/2310.03940)
   
 Past projects: 
 - [Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How](https://openreview.net/forum?id=tqh1zdXIra) (ICLR 2024, oral)
