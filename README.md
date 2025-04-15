@@ -3,7 +3,7 @@ I am a fifth-year PhD student at the [Machine Learning Group in Freiburg](http:/
 Past projects as (co-)first author:
 - [Beyond Random Augmentations: Pretraining with Hard Views](https://arxiv.org/abs/2310.03940) (ICLR 2025)
 - [Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How](https://openreview.net/forum?id=tqh1zdXIra) (ICLR 2024, oral)
-- [Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models) (ICML 2022)
+- [Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models) (ICML 2022, spotlight)
 - [Learning Environments for Reinforcement Learning](https://github.com/automl/learning_environments) (ICLR 2022)
 
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&labelColor=4285F4&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=LFtEAeYAAAAJ&hl=en)](https://scholar.google.com/citations?user=LFtEAeYAAAAJ&hl=en)
