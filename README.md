@@ -1,4 +1,4 @@
-I am a fifth-year PhD student at the [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/ferreira/index.html) under the supervision of Frank Hutter and looking for research scientist positions.<BR><BR>
+I am a Postdoctoral Researcher in Frank Hutter's [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/ferreira/index.html).<BR><BR>
   
 Past projects as (co-)first author:
 - [Beyond Random Augmentations: Pretraining with Hard Views](https://arxiv.org/abs/2310.03940) (ICLR 2025) [[code]](https://github.com/automl/hvp)
