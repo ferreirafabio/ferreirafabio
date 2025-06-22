@@ -1,4 +1,4 @@
-I am a Postdoctoral Researcher in Frank Hutter's [Machine Learning Group in Freiburg](http://ml.informatik.uni-freiburg.de/people/ferreira/index.html).<BR><BR>
+I am a Postdoctoral Researcher in Frank Hutter's [Machine Learning Group in Freiburg](https://ml.informatik.uni-freiburg.de/profile/ferreira/).<BR><BR>
   
 Past projects as (co-)first author:
 - [Beyond Random Augmentations: Pretraining with Hard Views](https://arxiv.org/abs/2310.03940) (ICLR 2025) [[code]](https://github.com/automl/hvp)
