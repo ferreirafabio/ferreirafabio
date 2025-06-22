@@ -7,6 +7,5 @@ Past projects as (co-)first author:
 - [Learning Environments for Reinforcement Learning](https://github.com/automl/learning_environments) (ICLR 2022) [[code]](https://github.com/automl/learning_environments)
 
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&labelColor=4285F4&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=LFtEAeYAAAAJ&hl=en)](https://scholar.google.com/citations?user=LFtEAeYAAAAJ&hl=en)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/FerreiraFabioDE)](https://twitter.com/artificialfabio)
-[![Twitter Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://twitter.com/FerreiraFabioDE](https://www.instagram.com/artificialfabio))](https://www.instagram.com/artificialfabio)
+[![Fábio Ferreira profile views](https://u8views.com/api/v1/github/profiles/4440904/views/day-week-month-total-count.svg)](https://u8views.com/github/ferreirafabio)
 <BR>
