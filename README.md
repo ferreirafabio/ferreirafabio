@@ -21,5 +21,5 @@ Some projects I maintain or co-maintain:
 | [video2tfrecord](https://github.com/ferreirafabio/video2tfrecord) | [![Total Downloads](https://img.shields.io/pepy/dt/video2tfrecord)](https://pepy.tech/project/video2tfrecord) | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/video2tfrecord)](https://github.com/ferreirafabio/video2tfrecord/stargazers) |
 | [mppi_pendulum](https://github.com/ferreirafabio/mppi_pendulum) | N/A | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/mppi_pendulum)](https://github.com/ferreirafabio/mppi_pendulum/stargazers) |
 
-<BR>
+
 [![Fábio Ferreira profile views](https://u8views.com/api/v1/github/profiles/4440904/views/total-count.svg)](https://u8views.com/github/ferreirafabio)
