@@ -1,5 +1,5 @@
 I am a Postdoctoral Researcher in Frank Hutter's [Machine Learning Group in Freiburg](https://ml.informatik.uni-freiburg.de/profile/ferreira/).<BR><BR>
-  
+  
 Past projects:
 - [Beyond Random Augmentations: Pretraining with Hard Views](https://arxiv.org/abs/2310.03940) (1st author, ICLR 2025) [[code]](https://github.com/automl/hvp)
 - [Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How](https://openreview.net/forum?id=tqh1zdXIra) (2nd author, ICLR 2024, oral) [[code]](https://github.com/automl/quicktunetool)
@@ -12,5 +12,14 @@ Other projects:
 My PhD thesis: [Meta-Learning and Synthetic Data for Automated Pretraining and Finetuning](https://arxiv.org/abs/2506.12161) (supervised by Prof. Frank Hutter)
 
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&labelColor=4285F4&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=LFtEAeYAAAAJ&hl=en)](https://scholar.google.com/citations?user=LFtEAeYAAAAJ&hl=en)
+
+Some projects I maintain or co-maintain:
+
+| Project | Total Downloads | Stars |
+|:---|:---|:---|
+| [Conditional Density Estimation](https://github.com/freelunchtheorem/Conditional_Density_Estimation) | [![Total Downloads](https://img.shields.io/pepy/dt/cde)](https://pepy.tech/project/cde) | [![GitHub stars](https://img.shields.io/github/stars/freelunchtheorem/Conditional_Density_Estimation)](https://github.com/freelunchtheorem/Conditional_Density_Estimation/stargazers) |
+| [video2tfrecord](https://github.com/ferreirafabio/video2tfrecord) | [![Total Downloads](https://img.shields.io/pepy/dt/video2tfrecord)](https://pepy.tech/project/video2tfrecord) | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/video2tfrecord)](https://github.com/ferreirafabio/video2tfrecord/stargazers) |
+| [mppi_pendulum](https://github.com/ferreirafabio/mppi_pendulum) | N/A | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/mppi_pendulum)](https://github.com/ferreirafabio/mppi_pendulum/stargazers) |
+
 <BR>
 [![Fábio Ferreira profile views](https://u8views.com/api/v1/github/profiles/4440904/views/total-count.svg)](https://u8views.com/github/ferreirafabio)
