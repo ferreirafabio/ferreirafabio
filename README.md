@@ -1,4 +1,4 @@
-I am a postdoctoral ML Research Engineer at the ELLIS Institute Tübingen and I work on post-training of multilingual LLMs. Previously, I was a PhD student at Frank Hutter's [Machine Learning Group in Freiburg](https://ml.informatik.uni-freiburg.de/profile/ferreira/).<BR><BR>
+I am an ML Research Engineer at the ELLIS Institute Tübingen and I work on post-training of multilingual LLMs. Previously, I was a PhD student at Frank Hutter's [Machine Learning Group in Freiburg](https://ml.informatik.uni-freiburg.de/profile/ferreira/).<BR><BR>
   
 Past projects:
 
