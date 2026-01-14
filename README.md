@@ -19,6 +19,6 @@ Some projects I maintain or co-maintain:
 |:---|:---|:---|
 | [Conditional Density Estimation](https://github.com/freelunchtheorem/Conditional_Density_Estimation) | [![Total Downloads](https://img.shields.io/pepy/dt/cde)](https://pepy.tech/project/cde) | [![GitHub stars](https://img.shields.io/github/stars/freelunchtheorem/Conditional_Density_Estimation)](https://github.com/freelunchtheorem/Conditional_Density_Estimation/stargazers) |
 | [video2tfrecord](https://github.com/ferreirafabio/video2tfrecord) | [![Total Downloads](https://img.shields.io/pepy/dt/video2tfrecord)](https://pepy.tech/project/video2tfrecord) | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/video2tfrecord)](https://github.com/ferreirafabio/video2tfrecord/stargazers) |
-| [tailgird](https://github.com/ferreirafabio/tailgrid) | [![Total Downloads](https://img.shields.io/pepy/dt/tailgrid)](https://pepy.tech/project/tailgrid) | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/tailgrid)](https://github.com/ferreirafabio/tailgrid/stargazers) |
+| [tailgrid](https://github.com/ferreirafabio/tailgrid) | [![Total Downloads](https://img.shields.io/pepy/dt/tailgrid)](https://pepy.tech/project/tailgrid) | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/tailgrid)](https://github.com/ferreirafabio/tailgrid/stargazers) |
 | [mppi_pendulum](https://github.com/ferreirafabio/mppi_pendulum) | N/A | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/mppi_pendulum)](https://github.com/ferreirafabio/mppi_pendulum/stargazers) |
 
