@@ -12,7 +12,7 @@ Past projects:
 My PhD thesis: [Meta-Learning and Synthetic Data for Automated Pretraining and Finetuning](https://arxiv.org/abs/2506.12161) (supervised by Prof. Frank Hutter)
 
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&labelColor=4285F4&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=LFtEAeYAAAAJ&hl=en)](https://scholar.google.com/citations?user=LFtEAeYAAAAJ&hl=en)
-
+<!--
 Some projects I maintain or co-maintain:
 
 | Project | Total Downloads | Stars |
@@ -21,4 +21,24 @@ Some projects I maintain or co-maintain:
 | [video2tfrecord](https://github.com/ferreirafabio/video2tfrecord) | [![Total Downloads](https://img.shields.io/pepy/dt/video2tfrecord)](https://pepy.tech/project/video2tfrecord) | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/video2tfrecord)](https://github.com/ferreirafabio/video2tfrecord/stargazers) |
 | [tailgrid](https://github.com/ferreirafabio/tailgrid) | [![Total Downloads](https://img.shields.io/pepy/dt/tailgrid)](https://pepy.tech/project/tailgrid) | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/tailgrid)](https://github.com/ferreirafabio/tailgrid/stargazers) |
 | [mppi_pendulum](https://github.com/ferreirafabio/mppi_pendulum) | N/A | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/mppi_pendulum)](https://github.com/ferreirafabio/mppi_pendulum/stargazers) |
+-->
+## 🧩 Selected Projects
+
+🧠 **Conditional Density Estimation (CDE)** – Reference implementation and benchmarks for modern conditional density estimation methods.  
+
+🎯 **Zero-Shot AutoML with Pretrained Models** – Selecting strong pretrained models without training, enabling efficient zero-shot AutoML.  
+
+🎥 **video2tfrecord** – Efficient video dataset preprocessing: convert raw videos into TFRecord pipelines for scalable training.  
+
+🤖 **mppi_pendulum** – Minimal and educational MPPI (Model Predictive Path Integral) control example on the classic pendulum task.  
+
+🧮 **Generative Symbolic Regression** – Encoder–decoder model that translates tabular data directly into concise LaTeX equations, enabling interpretable discovery of underlying symbolic laws.  
+
+📊 **tailgrid** – Lightweight utility for monitoring and visualizing long-running logs and metrics directly from the terminal.  
+
+🧩 **slurmfrag** – Fragment, submit, and manage large-scale SLURM experiments with fine-grained control and reproducibility in mind.  
+
+🧴 **perfume-compare** *(private)* – Browser extension + website that scans Souk listings and ranks fragrances by price per milliliter to surface the best deals (perfume-compare.com).  
+
+🌸 **perfumefinder.ai** *(private)* – AI-powered personal perfume recommendation assistant combining preference modeling and scent similarity.
 
