@@ -24,7 +24,7 @@ Some projects I maintain or co-maintain:
 -->
 ## 🧩 Selected Projects
 
-🧠 **Conditional Density Estimation (CDE)** – Benchmarks and reference implementations for conditional density estimation.  
+🧠 **Conditional Density Estimation (CDE)** – Benchmarks and baseline implementations for cond. density estimation.  
 
 🎯 **Zero-Shot AutoML with Pretrained Models** – Zero-shot selection of strong pretrained models without training.  
 
