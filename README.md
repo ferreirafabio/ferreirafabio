@@ -24,21 +24,20 @@ Some projects I maintain or co-maintain:
 -->
 ## 🧩 Selected Projects
 
-🧠 **Conditional Density Estimation (CDE)** – Reference implementation and benchmarks for modern conditional density estimation methods.  
+🧠 **Conditional Density Estimation (CDE)** – Benchmarks and reference implementations for conditional density estimation.  
 
-🎯 **Zero-Shot AutoML with Pretrained Models** – Selecting strong pretrained models without training, enabling efficient zero-shot AutoML.  
+🎯 **Zero-Shot AutoML with Pretrained Models** – Zero-shot selection of strong pretrained models without training.  
 
-🎥 **video2tfrecord** – Efficient video dataset preprocessing: convert raw videos into TFRecord pipelines for scalable training.  
+🎥 **video2tfrecord** – Convert raw video datasets into scalable TFRecord pipelines.  
 
-🤖 **mppi_pendulum** – Minimal and educational MPPI (Model Predictive Path Integral) control example on the classic pendulum task.  
+🤖 **mppi_pendulum** – Minimal MPPI control implementation for the classic pendulum task.  
 
-🧮 **Generative Symbolic Regression** – Encoder–decoder model that translates tabular data directly into concise LaTeX equations, enabling interpretable discovery of underlying symbolic laws.  
+🧮 **Generative Symbolic Regression** – Neural translation from tabular data to concise LaTeX equations.  
 
-📊 **tailgrid** – Lightweight utility for monitoring and visualizing long-running logs and metrics directly from the terminal.  
+📊 **tailgrid** – Terminal-based monitoring and visualization of long-running logs.  
 
-🧩 **slurmfrag** – Fragment, submit, and manage large-scale SLURM experiments with fine-grained control and reproducibility in mind.  
+🧩 **slurmfrag** – Fine-grained experiment fragmentation and management for SLURM clusters.  
 
-🧴 **perfume-compare** *(private)* – Browser extension + website that scans Souk listings and ranks fragrances by price per milliliter to surface the best deals (perfume-compare.com).  
+🧴 **perfume-compare** *(private)* – Browser extension ranking fragrances by price per milliliter.  
 
-🌸 **perfumefinder.ai** *(private)* – AI-powered personal perfume recommendation assistant combining preference modeling and scent similarity.
-
+🌸 **perfumefinder.ai** *(private)* – AI-powered personal perfume recommendation assistant.
