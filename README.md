@@ -40,4 +40,4 @@ Some projects I maintain or co-maintain:
 
 🧴 **perfume-compare** *(private)* – Browser extension ranking fragrances by price per milliliter.  
 
-🌸 **perfumefinder.ai** *(private)* – AI-powered personal perfume recommendation assistant.
+🌸 **myperfumeai.com** *(private)* – AI-powered personal perfume recommendation assistant.
