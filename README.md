@@ -40,7 +40,6 @@ Some projects I maintain or co-maintain:
 
 🧴 **perfume-compare** *(private)* – Browser extension ranking fragrances by price per milliliter.  
 
-🌸 **myperfumeai.com** *(private)* – AI-powered personal perfume recommendation assistant.
+🌸 **[myperfumeai.com](https://myperfumeai.com)** *(private)* – AI-powered personal perfume recommendation assistant.
 
-🔍 **aretheyinvolved.com** – Search and analyse names and roles across all publicly released Epstein-related government documents, including scanned PDFs and images, with OCR-based text extraction, AI-assisted role classification, and entity-level statistics.
-
+🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** *(private)* – Search and analyse names and roles across all publicly released Epstein-related government documents, including scanned PDFs and images, with OCR-based text extraction, AI-assisted role classification, and entity-level statistics.
