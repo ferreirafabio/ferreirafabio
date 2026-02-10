@@ -2,7 +2,7 @@ I am an ML Research Engineer at the ELLIS Institute Tübingen and I work on post
   
 Past projects:
 
-- [Improving LLM-based Global Optimization with Search Space Partitioning](https://arxiv.org/abs/2505.21372) (under review at ICLR 2026)
+- [Improving LLM-based Global Optimization with Search Space Partitioning](https://arxiv.org/abs/2505.21372) (4th author, ICLR 2026)
 - [Beyond Random Augmentations: Pretraining with Hard Views](https://arxiv.org/abs/2310.03940) (1st author, ICLR 2025) [[code]](https://github.com/automl/hvp)
 - [Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How](https://openreview.net/forum?id=tqh1zdXIra) (2nd author, ICLR 2024, oral) [[code]](https://github.com/automl/quicktunetool)
 - [Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models) (1st author, ICML 2022, spotlight) [[code]](https://github.com/automl/zero-shot-automl-with-pretrained-models)
