@@ -24,22 +24,27 @@ Some projects I maintain or co-maintain:
 -->
 ## 🧩 Selected Projects
 
-🧠 **Conditional Density Estimation (CDE)** – Benchmarks and baseline implementations for cond. density estimation.  
 
-🎯 **Zero-Shot AutoML with Pretrained Models** – Zero-shot selection of strong pretrained models without training.  
+🧠 **[Conditional Density Estimation (CDE)](https://github.com/freelunchtheorem/Conditional_Density_Estimation)** – Benchmarks and baseline implementations for conditional density estimation.
 
-🎥 **video2tfrecord** – Convert raw video datasets into scalable TFRecord pipelines.  
+🎯 **[Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models)** – Zero-shot selection of strong pretrained models without training.
 
-🤖 **mppi_pendulum** – Minimal MPPI control implementation for the classic pendulum task.  
+🎥 **[video2tfrecord](https://github.com/ferreirafabio/video2tfrecord)** – Convert raw video datasets into scalable TFRecord pipelines.
 
-🧮 **Generative Symbolic Regression** – Neural translation from tabular data to concise LaTeX equations.  
+🤖 **[mppi_pendulum](https://github.com/ferreirafabio/mppi_pendulum)** – Minimal MPPI control implementation for the classic pendulum task.
 
-📊 **tailgrid** – Terminal-based monitoring and visualization of long-running logs.  
+🧮 **Generative Symbolic Regression** – Neural translation from tabular data to concise LaTeX equations. *(private / research code)*
 
-🧩 **slurmfrag** – Fine-grained experiment fragmentation and management for SLURM clusters.  
+📊 **[tailgrid](https://github.com/ferreirafabio/tailgrid)** – Terminal-based monitoring and visualization of long-running logs.
 
-🧴 **perfume-compare** *(private)* – Browser extension ranking fragrances by price per milliliter.  
+🧩 **[slurmfrag](https://github.com/ferreirafabio/slurmfrag)** – Fine-grained experiment fragmentation and management for SLURM clusters.
+
+🧴 **perfume-compare** *(private)* – Browser extension ranking fragrances by price per milliliter.
 
 🌸 **[myperfumeai.com](https://myperfumeai.com)** *(private)* – AI-powered personal perfume recommendation assistant.
+
+🧴 **[perfume-compare](https://perfume-compare.com)** *(private)* – Browser extension ranking fragrances by price per milliliter.
+
+🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** *(private)* – Search and analyse names and roles across all publicly released Epstein-related government documents, including scanned PDFs and images, with OCR-based text extraction, AI-assisted role classification, and entity-level statistics.
 
 🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** *(private)* – Search and analyse names and roles across all publicly released Epstein-related government documents, including scanned PDFs and images, with OCR-based text extraction, AI-assisted role classification, and entity-level statistics.
