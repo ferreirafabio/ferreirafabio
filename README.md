@@ -39,8 +39,6 @@ Some projects I maintain or co-maintain:
 
 🧩 **[slurmfrag](https://github.com/ferreirafabio/slurmfrag)** – Fine-grained experiment fragmentation and management for SLURM clusters.
 
-🧴 **perfume-compare** *(private)* – Browser extension ranking fragrances by price per milliliter.
-
 🌸 **[myperfumeai.com](https://myperfumeai.com)** *(private)* – AI-powered personal perfume recommendation assistant.
 
 🧴 **[perfume-compare](https://perfume-compare.com)** *(private)* – Browser extension ranking fragrances by price per milliliter.
