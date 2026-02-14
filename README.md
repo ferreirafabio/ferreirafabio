@@ -46,3 +46,6 @@ Some projects I maintain or co-maintain:
 🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** *(private)* – Search and analyse names and roles across all publicly released Epstein-related government documents, including scanned PDFs and images, with OCR-based text extraction, AI-assisted role classification, and entity-level statistics.
 
 🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** *(private)* – Search and analyse names and roles across all publicly released Epstein-related government documents, including scanned PDFs and images, with OCR-based text extraction, AI-assisted role classification, and entity-level statistics.
+
+Contributor to
+[allenai open-instruct]([open-instruct](https://github.com/allenai/open-instruct))
