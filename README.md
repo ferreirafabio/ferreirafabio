@@ -8,7 +8,6 @@ Past projects:
 - [Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models) (1st author, ICML 2022, spotlight) [[code]](https://github.com/automl/zero-shot-automl-with-pretrained-models)
 - [Learning Environments for Reinforcement Learning](https://github.com/automl/learning_environments) (1st author, ICLR 2022) [[code]](https://github.com/automl/learning_environments)
 
-
 My PhD thesis: [Meta-Learning and Synthetic Data for Automated Pretraining and Finetuning](https://arxiv.org/abs/2506.12161) (supervised by Prof. Frank Hutter)
 
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&labelColor=4285F4&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=LFtEAeYAAAAJ&hl=en)](https://scholar.google.com/citations?user=LFtEAeYAAAAJ&hl=en)
@@ -22,30 +21,28 @@ Some projects I maintain or co-maintain:
 | [tailgrid](https://github.com/ferreirafabio/tailgrid) | [![Total Downloads](https://img.shields.io/pepy/dt/tailgrid)](https://pepy.tech/project/tailgrid) | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/tailgrid)](https://github.com/ferreirafabio/tailgrid/stargazers) |
 | [mppi_pendulum](https://github.com/ferreirafabio/mppi_pendulum) | N/A | [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/mppi_pendulum)](https://github.com/ferreirafabio/mppi_pendulum/stargazers) |
 -->
+## 🔧 Open Source Contributions
+- [allenai/open-instruct](https://github.com/allenai/open-instruct) – Post-training recipes for language model (see [this PR](https://github.com/allenai/open-instruct/pull/1368))
+- [OpenEuroLLM/llm-judge-eval](https://github.com/OpenEuroLLM/llm-judge-eval) – LLM-as-judge evaluation framework
+  
 ## 🧩 Selected Projects
 
+🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** - Search and analyse names and roles across all Epstein files (NER, OCR-based text extraction, co-occurrences, AI summaries, AI role classification).
 
-🧠 **[Conditional Density Estimation (CDE)](https://github.com/freelunchtheorem/Conditional_Density_Estimation)** – Benchmarks and baseline implementations for conditional density estimation.
+🌸 **[myperfumeai.com](https://myperfumeai.com)** – ChatGPT for perfumes / personal perfume recommendation AI assistant based on 120k+ perfumes dataset.
+
+🧠 **[Conditional Density Estimation (CDE)](https://github.com/freelunchtheorem/Conditional_Density_Estimation)** – Reference package (cde) for conditional density estimation.
+
+🧩 **[slurmfrag](https://github.com/ferreirafabio/slurmfrag)** – Fine-grained experiment fragmentation and management for SLURM clusters.
+
+📊 **[tailgrid](https://github.com/ferreirafabio/tailgrid)** – Terminal-based and LLM-assisted monitoring and visualization of log files.
+
+🧮 **[Generative Symbolic Regression](https://github.com/ferreirafabio/symbolic_regression)** – Neural translation from tabular data to concise LaTeX equations. *(private / research code)*
+
+🤖 **[mppi_pendulum](https://github.com/ferreirafabio/mppi_pendulum)** – Minimal MPPI control implementation for the classic pendulum task.
 
 🎯 **[Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models)** – Zero-shot selection of strong pretrained models without training.
 
 🎥 **[video2tfrecord](https://github.com/ferreirafabio/video2tfrecord)** – Convert raw video datasets into scalable TFRecord pipelines.
 
-🤖 **[mppi_pendulum](https://github.com/ferreirafabio/mppi_pendulum)** – Minimal MPPI control implementation for the classic pendulum task.
 
-🧮 **Generative Symbolic Regression** – Neural translation from tabular data to concise LaTeX equations. *(private / research code)*
-
-📊 **[tailgrid](https://github.com/ferreirafabio/tailgrid)** – Terminal-based monitoring and visualization of long-running logs.
-
-🧩 **[slurmfrag](https://github.com/ferreirafabio/slurmfrag)** – Fine-grained experiment fragmentation and management for SLURM clusters.
-
-🌸 **[myperfumeai.com](https://myperfumeai.com)** *(private)* – AI-powered personal perfume recommendation assistant.
-
-🧴 **[perfume-compare](https://perfume-compare.com)** *(private)* – Browser extension ranking fragrances by price per milliliter.
-
-🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** *(private)* – Search and analyse names and roles across all publicly released Epstein-related government documents, including scanned PDFs and images, with OCR-based text extraction, AI-assisted role classification, and entity-level statistics.
-
-🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** *(private)* – Search and analyse names and roles across all publicly released Epstein-related government documents, including scanned PDFs and images, with OCR-based text extraction, AI-assisted role classification, and entity-level statistics.
-
-Contributor to
-[allenai open-instruct]([open-instruct](https://github.com/allenai/open-instruct))
