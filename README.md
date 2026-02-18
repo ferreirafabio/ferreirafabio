@@ -27,7 +27,7 @@ Some projects I maintain or co-maintain:
   
 ## 🧩 Selected Projects
 
-🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** - Search and analyse names across all Epstein files (NER, OCR-based text extraction, co-occurrences, AI summaries, AI role classification).
+🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** - Search and analyse names across all Epstein files (NER, OCR, co-occurrences, AI summaries+role classification).
 
 🌸 **[myperfumeai.com](https://myperfumeai.com)** – ChatGPT for perfumes / personal perfume recommendation AI assistant based on 120k+ perfumes dataset.
 
