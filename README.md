@@ -1,4 +1,4 @@
-I am an ML Research Engineer at the ELLIS Institute Tübingen and I work on post-training of multilingual LLMs. Previously, I was a PhD student at Frank Hutter's [Machine Learning Group in Freiburg](https://ml.informatik.uni-freiburg.de/profile/ferreira/).<BR><BR>
+I am a builder and an ML Research Engineer at the ELLIS Institute Tübingen and I work on post-training of multilingual LLMs. Previously, I was a PhD student at Frank Hutter's [Machine Learning Group in Freiburg](https://ml.informatik.uni-freiburg.de/profile/ferreira/).<BR><BR>
   
 Past projects:
 
@@ -27,7 +27,7 @@ Some projects I maintain or co-maintain:
   
 ## 🧩 Selected Projects
 
-🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** - Search and analyse names across all Epstein files (NER, OCR, co-occurrences, AI summaries+role classification).
+🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** - Search + analyse names across all Epstein files (NER, OCR, co-occurrences, AI summaries+role classification).
 
 🌸 **[myperfumeai.com](https://myperfumeai.com)** – ChatGPT for perfumes / personal perfume recommendation AI assistant based on 120k+ perfumes dataset.
 
