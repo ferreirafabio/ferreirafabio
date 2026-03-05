@@ -3,9 +3,9 @@ Builder and ML Research Engineer at the ELLIS Institute Tübingen, working on po
 Current projects:
 - OLMo 3 post-training analysis: how does think/instruct capability evolve over sft training time? See [this report](https://github.com/OpenEuroLLM/Taskboard/issues/168#issuecomment-3974681146)
 - What dataset mixtures allow LLMs to improve multilingual support in European LLMs (OpenEuro LLM project)
-  
-Past projects:
 
+
+Past projects:
 - [Improving LLM-based Global Optimization with Search Space Partitioning](https://arxiv.org/abs/2505.21372) (4th author, ICLR 2026)
 - [Beyond Random Augmentations: Pretraining with Hard Views](https://arxiv.org/abs/2310.03940) (1st author, ICLR 2025) [[code]](https://github.com/automl/hvp)
 - [Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How](https://openreview.net/forum?id=tqh1zdXIra) (2nd author, ICLR 2024, oral) [[code]](https://github.com/automl/quicktunetool)
