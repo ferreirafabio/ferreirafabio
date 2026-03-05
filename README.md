@@ -1,4 +1,8 @@
 Builder and ML Research Engineer at the ELLIS Institute Tübingen, working on post-training of multilingual LLMs. Previously, I was a PhD student at Frank Hutter's [Machine Learning Group in Freiburg](https://ml.informatik.uni-freiburg.de/profile/ferreira/).<BR><BR>
+
+Current projects:
+- OLMo 3 post-training analysis: how does think/instruct capability evolve over sft training time? See [this report](https://github.com/OpenEuroLLM/Taskboard/issues/168#issuecomment-3974681146)
+- What dataset mixtures allow LLMs to improve multilingual support in European LLMs (OpenEuro LLM project)
   
 Past projects:
 
@@ -24,7 +28,6 @@ Some projects I maintain or co-maintain:
 ## 🔧 Open Source Contributions
 - [allenai/open-instruct](https://github.com/allenai/open-instruct)
   - Post-training recipes for language model (see [this PR](https://github.com/allenai/open-instruct/pull/1368))
-  - OLMo 3 post-training analysis: how does think/instruct capability evolve over sft training time? See [this report](https://github.com/OpenEuroLLM/Taskboard/issues/168#issuecomment-3974681146)
 - [OpenEuroLLM/llm-judge-eval](https://github.com/OpenEuroLLM/llm-judge-eval) – LLM-as-judge evaluation framework
   
 ## 🧩 Selected Projects
