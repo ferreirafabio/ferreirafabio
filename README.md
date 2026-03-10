@@ -2,7 +2,7 @@ Builder and ML Research Engineer at the ELLIS Institute Tübingen, working on po
 
 Current projects / research interests:
 - OLMo 3 post-training analysis: how does think/instruct capability evolve over sft training time? See [this report](https://github.com/OpenEuroLLM/Taskboard/issues/168#issuecomment-3974681146)
-- What dataset mixtures allow LLMs to improve multilingual support in European LLMs (OpenEuro LLM project)
+- What dataset mixtures allow LLMs to improve multilingual support (without curbing English language support)?
 
 
 Past projects:
