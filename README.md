@@ -32,26 +32,26 @@ Some projects I maintain or co-maintain:
   
 ## 🧩 Selected Projects
 
- 🔬 **[autoresearch-automl](https://github.com/ferreirafabio/autoresearch-automl)** – Karpathy's autoresearch lets an LLM agent tweak training code through trial and error. Another user [showed](https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_do-llm-coding-agents-fool-us-karpathys-activity-7437556522240536576-ygrQ) that model-based optimization (Optuna TPE + expert-picked hyperparameter search sapce) already beats it. We fill the gap by integrating [LLAMBO](https://arxiv.org/abs/2402.03921) into autoresearch, an approach that puts the LLM inside model-based optimization, using it as both surrogate model and candidate generator.
+ 🔬 **[autoresearch-automl](https://github.com/ferreirafabio/autoresearch-automl)**: Karpathy's autoresearch lets an LLM agent tweak training code through trial and error. Another user [showed](https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_do-llm-coding-agents-fool-us-karpathys-activity-7437556522240536576-ygrQ) that model-based optimization (Optuna TPE + expert-picked hyperparameter search sapce) already beats it. We fill the gap by integrating [LLAMBO](https://arxiv.org/abs/2402.03921) into autoresearch, an approach that puts the LLM inside model-based optimization, using it as both surrogate model and candidate generator.
  
  . We fill the gap by combining both: LLAMBO replaces the GP in Bayesian optimization with an LLM, bringing the structured search of classical HPO together with the LLM's general knowledge of ML training dynamics — no expert curation needed.
 
-🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)** - Search + analyse names across all Epstein files (NER, OCR, co-occurrences, AI summaries+role classification).
+🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)**: Search + analyse names across all Epstein files (NER, OCR, co-occurrences, AI summaries+role classification).
 
-🌸 **[myperfumeai.com](https://myperfumeai.com)** – ChatGPT for perfumes / personal perfume recommendation AI assistant based on 120k+ perfumes dataset.
+🌸 **[myperfumeai.com](https://myperfumeai.com)**: ChatGPT for perfumes / personal perfume recommendation AI assistant based on 120k+ perfumes dataset.
 
 🧠 **[Conditional Density Estimation (CDE)](https://github.com/freelunchtheorem/Conditional_Density_Estimation)** – Reference package (cde) for conditional density estimation.
 
-🧩 **[slurmfrag](https://github.com/ferreirafabio/slurmfrag)** – Fine-grained experiment fragmentation and management for SLURM clusters.
+🧩 **[slurmfrag](https://github.com/ferreirafabio/slurmfrag)**: Fine-grained experiment fragmentation and management for SLURM clusters.
 
-📊 **[tailgrid](https://github.com/ferreirafabio/tailgrid)** – Terminal-based and LLM-assisted monitoring and visualization of log files.
+📊 **[tailgrid](https://github.com/ferreirafabio/tailgrid)**: Terminal-based and LLM-assisted monitoring and visualization of log files.
 
-🧮 **[Generative Symbolic Regression](https://github.com/ferreirafabio/symbolic_regression)** – Neural translation from tabular data to concise LaTeX equations. *(private / research code)*
+🧮 **[Generative Symbolic Regression](https://github.com/ferreirafabio/symbolic_regression)**: Neural translation from tabular data to concise LaTeX equations. *(private / research code)*
 
-🤖 **[mppi_pendulum](https://github.com/ferreirafabio/mppi_pendulum)** – Minimal MPPI control implementation for the classic pendulum task.
+🤖 **[mppi_pendulum](https://github.com/ferreirafabio/mppi_pendulum)**: Minimal MPPI control implementation for the classic pendulum task.
 
-🎯 **[Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models)** – Zero-shot selection of strong pretrained models without training.
+🎯 **[Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models)**: Zero-shot selection of strong pretrained models without training.
 
-🎥 **[video2tfrecord](https://github.com/ferreirafabio/video2tfrecord)** – Convert raw video datasets into scalable TFRecord pipelines.
+🎥 **[video2tfrecord](https://github.com/ferreirafabio/video2tfrecord)**: Convert raw video datasets into scalable TFRecord pipelines.
 
 
