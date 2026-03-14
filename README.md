@@ -32,7 +32,7 @@ Some projects I maintain or co-maintain:
   
 ## 🧩 Selected Projects
 
- 🔬 [autoresearch-automl](https://github.com/ferreirafabio/autoresearch-automl) – Karpathy's autoresearch lets an LLM agent tweak training code through trial and error. Another user [showed](https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_do-llm-coding-agents-fool-us-karpathys-activity-7437556522240536576-ygrQ) that model-based optimization (Optuna TPE + expert-picked hyperparameter search sapce) already beats it. We fill the gap by integrating [LLAMBO](https://arxiv.org/abs/2402.03921) into autoresearch, an approach that puts the LLM inside model-based optimization, using it as both surrogate model and candidate generator.
+ 🔬 **[autoresearch-automl](https://github.com/ferreirafabio/autoresearch-automl)** – Karpathy's autoresearch lets an LLM agent tweak training code through trial and error. Another user [showed](https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_do-llm-coding-agents-fool-us-karpathys-activity-7437556522240536576-ygrQ) that model-based optimization (Optuna TPE + expert-picked hyperparameter search sapce) already beats it. We fill the gap by integrating [LLAMBO](https://arxiv.org/abs/2402.03921) into autoresearch, an approach that puts the LLM inside model-based optimization, using it as both surrogate model and candidate generator.
  
  . We fill the gap by combining both: LLAMBO replaces the GP in Bayesian optimization with an LLM, bringing the structured search of classical HPO together with the LLM's general knowledge of ML training dynamics — no expert curation needed.
 
