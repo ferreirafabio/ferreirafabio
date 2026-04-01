@@ -32,7 +32,7 @@ Some projects I maintain or co-maintain:
   
 ## 🧩 Selected Projects
 
-🔬 **[autoresearch-automl](https://github.com/ferreirafabio/autoresearch-automl)**: Karpathy's autoresearch lets an LLM agent tweak training code through trial and error. Another user [showed](https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_do-llm-coding-agents-fool-us-karpathys-activity-7437556522240536576-ygrQ) that model-based optimization (Optuna TPE + expert-picked hyperparameter search sapce) already beats it. We fill the gap by integrating [LLAMBO](https://arxiv.org/abs/2402.03921) into autoresearch, an approach that puts the LLM inside model-based optimization, using it as both surrogate model and candidate generator.
+🔬 **[autoresearch-automl](https://github.com/ferreirafabio/autoresearch-automl)**: Can LLMs Beat Classical Hyperparameter Optimization Algorithms? A Study on autoresearch [[Paper](https://arxiv.org/abs/2603.24647)]
 
 🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)**: Search + analyse names across all Epstein files (NER, OCR, co-occurrences, AI summaries+role classification).
 
