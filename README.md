@@ -1,6 +1,7 @@
 Builder and ML Research Engineer at the ELLIS Institute Tübingen, working on post-training of multilingual LLMs. Previously, I was a PhD student at Frank Hutter's [Machine Learning Group in Freiburg](https://ml.informatik.uni-freiburg.de/profile/ferreira/).<BR><BR>
 
 Current projects / research interests:
+- [Can LLMs Beat Classical Hyperparameter Optimization Algorithms? A Study on autoresearch](https://arxiv.org/abs/2603.24647) — 1st author. [[Code](https://github.com/ferreirafabio/autoresearch-automl)] [[Interactive demo](https://ferreirafabio.github.io/autoresearch-automl)]
 - OLMo 3 post-training analysis: how does think/instruct capability evolve over sft training time? See [this report](https://github.com/OpenEuroLLM/Taskboard/issues/168#issuecomment-3974681146)
 - What dataset mixtures allow LLMs to improve multilingual support (without curbing English language support)? See [this report](https://github.com/OpenEuroLLM/Taskboard/issues/186#issue-4051327047)
 
