@@ -33,6 +33,8 @@ Some projects I maintain or co-maintain:
   
 ## 🧩 Selected Projects
 
+📣 **[streikcheck.de](https://streikcheck.de)**: AI-powered strike alerts for Germany (Bahn, airport, ÖPNV, Müll, Kita, Klinik, Post). LLM extracts date/union/employer/status from union + press feeds twice daily; personalised alerts via email or Telegram.
+
 🔬 **[autoresearch-automl](https://github.com/ferreirafabio/autoresearch-automl)**: Can LLMs Beat Classical Hyperparameter Optimization Algorithms? A Study on autoresearch [[Paper](https://arxiv.org/abs/2603.24647)]
 
 🔍 **[aretheyinvolved.com](https://aretheyinvolved.com)**: Search + analyse names across all Epstein files (NER, OCR, co-occurrences, AI summaries+role classification).
