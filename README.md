@@ -53,6 +53,8 @@ Some projects I maintain or co-maintain:
 
 🎯 **[Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models)**: Zero-shot selection of strong pretrained models without training.
 
+🔑 **[1password7-chrome-extension](https://github.com/ferreirafabio/1password7-chrome-extension)**: Chrome Manifest V3 extension for 1Password 7 standalone license holders. Inline password icons, native messaging shims.
+
 🎥 **[video2tfrecord](https://github.com/ferreirafabio/video2tfrecord)**: Convert raw video datasets into scalable TFRecord pipelines.
 
 
