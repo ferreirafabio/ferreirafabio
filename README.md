@@ -33,6 +33,8 @@ Some projects I maintain or co-maintain:
   
 ## 🧩 Selected Projects
 
+🔑 **[1password7-chrome-extension](https://github.com/ferreirafabio/1password7-chrome-extension)**: Chrome Manifest V3 extension for 1Password 7 standalone license holders. Inline password icons, native messaging shims.
+
 📣 **[streikcheck.de](https://streikcheck.de)**: Personalized strike alerts for German public infrastructure. LLM extracts information from press feeds twice daily.
 
 🔬 **[autoresearch-automl](https://github.com/ferreirafabio/autoresearch-automl)**: Can LLMs Beat Classical Hyperparameter Optimization Algorithms? A Study on autoresearch [[Paper](https://arxiv.org/abs/2603.24647)]
@@ -52,8 +54,6 @@ Some projects I maintain or co-maintain:
 🤖 **[mppi_pendulum](https://github.com/ferreirafabio/mppi_pendulum)**: Minimal MPPI control implementation for the classic pendulum task.
 
 🎯 **[Zero-Shot AutoML with Pretrained Models](https://github.com/automl/zero-shot-automl-with-pretrained-models)**: Zero-shot selection of strong pretrained models without training.
-
-🔑 **[1password7-chrome-extension](https://github.com/ferreirafabio/1password7-chrome-extension)**: Chrome Manifest V3 extension for 1Password 7 standalone license holders. Inline password icons, native messaging shims.
 
 🎥 **[video2tfrecord](https://github.com/ferreirafabio/video2tfrecord)**: Convert raw video datasets into scalable TFRecord pipelines.
 
